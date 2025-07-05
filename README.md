@@ -1,4 +1,4 @@
-# Büyük Projem
+# Büyük Projem :)
 
 Bu proje çok büyük olduğu için Google Drive üzerinden indirilebilir:
 
