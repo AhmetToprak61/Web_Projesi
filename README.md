@@ -21,6 +21,7 @@ Bu proje, Murat Yücedağ'ın Traversal serisine dayalı olarak geliştirilmiş,
 
 ## 🚀 Projeyi Çalıştırma Adımları
 
+```bash
 1. **Projeyi Klonlayın:**
 
 git clone https://github.com/kullaniciadi/traversalcoreproje.git
