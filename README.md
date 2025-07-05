@@ -23,7 +23,6 @@ Bu proje, Murat Yücedağ'ın Traversal serisine dayalı olarak geliştirilmiş,
 
 1. **Projeyi Klonlayın:**
 
-```bash
 git clone https://github.com/kullaniciadi/traversalcoreproje.git
 
 
